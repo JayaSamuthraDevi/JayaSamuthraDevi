@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @JayaSamuthraDevi
+- 👀 I’m interested in learning new things.
+- 🌱 I’m currently learning java,c,html,css
+- 💞️ I’m looking to collaborate on web development and designing.
+- 📫 Reach me on jeevitham811@gmail.com 
