@@ -43,17 +43,12 @@
 
 <h3 align="center"> 🤞 Connect me through ✌</h3>
 <p align="center">
-<a href="https://linkedin.com/in/harish s" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="harish s" height="30" width="100" /></a>
-<a href="https://instagram.com/_crazy_prince_2003_" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="_crazy_prince_2003_" height="30" width="110" /></a>
-<a href="https://www.hackerrank.com/harish s" target="blank"><img align="center" src="https://img.shields.io/badge/HackerRank-00EA64.svg?style=for-the-badge&logo=HackerRank&logoColor=white" alt="harish s" height="30" width="130" /></a>
+<a href="https://linkedin.com/in/JayaSamuthraDevi" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="jsd" height="30" width="100" /></a>
+<a href="https://instagram.com/samuthra_murugan" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="samuthra_murugan" height="30" width="110" /></a>
+<a href="https://https://www.hackerrank.com/JayaSamuthra?hr_r=1" target="blank"><img align="center" src="https://img.shields.io/badge/HackerRank-00EA64.svg?style=for-the-badge&logo=HackerRank&logoColor=white" alt="jsd" height="30" width="130" /></a>
 </p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=harish443&show_icons=true&locale=en&layout=compact" alt="harish443" height="270" width="355" /></p><br>
-
-<br>
 <br> 
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=harish443&label=Profile%20views&color=0e75b6&style=flat" alt="harish443" /> </p>
 
 
 
