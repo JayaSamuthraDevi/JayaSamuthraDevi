@@ -15,7 +15,6 @@
 
 - 📫 Reach me on **jeevitham811@gmail.com**
 
-- 🔭 I’m currently working on **Training Models(DL)**
 
 <br>
   
