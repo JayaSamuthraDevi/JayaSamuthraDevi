@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋 Nice to meet you.<br></h1>
  <h2 align="center"> I’m Jaya Samuthra Devi M 💖</h2>
 
-<h3 align="center">I'm an philomath </h3>
+
 
 - 👀 I’m interested in learning new things.
 
@@ -50,12 +50,10 @@
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=harish443&show_icons=true&locale=en&layout=compact" alt="harish443" height="270" width="355" /></p><br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harish443&show_icons=true&theme=radical)
-
 <br>
 <br> 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=harish443&label=Profile%20views&color=0e75b6&style=flat" alt="harish443" /> </p>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Harish443&column=-1&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+
