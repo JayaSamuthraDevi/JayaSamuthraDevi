@@ -19,7 +19,9 @@
 <br>
   
   💻 **Things I love**
-- Web Designing <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+- Web Designing <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- React Js
+- TypeScript
 - Java✍️
 - C 🧐
 - Html 😃
